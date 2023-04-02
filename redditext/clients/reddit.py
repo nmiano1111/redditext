@@ -9,12 +9,6 @@ class Reddit:
 
     def __init__(self, subs: list, logger: Logger):
         self.__logger = logger
-
-        print("--------------------------------")
-        print(self.__logger)
-        self.__logger.info("HEYOOOOOOOO")
-        print("--------------------------------")
-
         self.__subs = subs
 
     def __url(self, sub, cat='hot', window=None):
