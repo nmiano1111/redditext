@@ -19,7 +19,6 @@ class Reddit:
 
         return f'https://www.reddit.com/r/{sub}/{cat}.json{t}'
 
-    # TODO: better name, guy
     def get_sub_front_page(self, sub, cat='hot', window=None):
         url = self.__url(sub=sub, cat=cat, window=window)
 
