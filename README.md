@@ -48,7 +48,7 @@ _note: I'm not really a front end developer. I just needed a UI for this._
 ### Text to Speech
 
 As stated above, the [TTS](https://github.com/coqui-ai/TTS) text-to-speech library was used to generate
-speech from text. I provided a sample of my voice a pretrained model that came with the library. 
+speech from text. I provided a sample of my voice to a pretrained model that came with the library. 
 
 ### Project Layout
 * `redditext` backend module (Python / Flask)
