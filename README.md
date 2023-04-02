@@ -5,7 +5,7 @@ by yours truly). The project includes a server and a web app. The server is writ
 using [Flask](https://flask.palletsprojects.com/en/2.2.x/). The web app is written [TypeScript](https://www.typescriptlang.org/) 
 using [React](https://react.dev/). 'Text to speech' is handled using the [TTS library](https://github.com/coqui-ai/TTS/).
 
-Demo: https://www.loom.com/share/d6219272ce7541d9a00f9dcd4dbb6ac3
+Here is a [demo video](https://www.loom.com/share/d6219272ce7541d9a00f9dcd4dbb6ac3)
 
 _note: this project is not currently suitable for production use!_ 
 
