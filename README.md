@@ -9,7 +9,7 @@ Here is a [demo video](https://www.loom.com/share/d6219272ce7541d9a00f9dcd4dbb6a
 
 _note: this project is not currently suitable for production use!_ 
 
-#### Server:
+### Server:
 
 Dependencies are managed using [Pipenv](https://pipenv.pypa.io/en/latest/). The version of Python used is
 3.8.16 (check out [Pyenv](https://github.com/pyenv/pyenv) for managing Python versions). 
@@ -31,7 +31,7 @@ from the root of the project.
 Server can be accessed at `http://127.0.0.1:5000`.
 
 
-#### Web App:
+### Web App:
 
 Dependencies are managed using [Yarn](https://yarnpkg.com/). Building is managed using [Vite](https://vitejs.dev/).
 To run app, navigate to `./redditext-frontend`, and run:
