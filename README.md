@@ -2,7 +2,7 @@
 
 A simple web app that lets you click a button to get a random reddit post (title read
 by yours truly). The project includes a server and a web app. The server is written in [Python](https://www.python.org/), 
-using [Flask](https://flask.palletsprojects.com/en/2.2.x/). The web app is written [TypeScript](https://www.typescriptlang.org/) 
+using [Flask](https://flask.palletsprojects.com/en/2.2.x/). The web app is written in [TypeScript](https://www.typescriptlang.org/) 
 using [React](https://react.dev/). 'Text to speech' is handled using the [TTS library](https://github.com/coqui-ai/TTS/).
 
 Here is a [demo video](https://www.loom.com/share/d6219272ce7541d9a00f9dcd4dbb6ac3).
