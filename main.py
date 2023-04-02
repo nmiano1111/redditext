@@ -8,7 +8,6 @@ from redditext.util import process_url
 from redditext.text_to_speech import SpeechGenerator
 
 import logging
-from logging import Logger
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!' # just for dev!
@@ -21,7 +20,7 @@ subs = conf.read_config()
 subs = subs['subs']
 
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(message)s', level=logging.INFO)
-logging.info("FUCK")
+
 redditext_logger = logging.getLogger(__name__)
 
 redditext_logger.info("WHAT THE FUCK")
