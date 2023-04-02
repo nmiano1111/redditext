@@ -23,7 +23,6 @@ logging.basicConfig(format='%(asctime)s %(levelname)s:%(message)s', level=loggin
 
 redditext_logger = logging.getLogger(__name__)
 
-redditext_logger.info("WHAT THE FUCK")
 
 reddit = Reddit(subs=subs, logger=redditext_logger)
 
